@@ -1,0 +1,1 @@
+The project aims to create an advanced predictive model that assesses mental health through analysing online activities. Using cutting-edge machine learning and natural language processing, it scrutinises digital footprints like social media interactions, browsing, and search patterns. This model seeks connections as indicators of mental health conditions
